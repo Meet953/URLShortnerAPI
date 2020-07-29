@@ -1,0 +1,13 @@
+.form {
+	background-color: #efefef;
+	width: 400px;
+	height: 50px;
+	border-radius: 7px;
+	padding: 20px;
+}
+
+#form, #redirect {
+ margin: auto;
+  width: 50%;
+   padding: 10px;
+}
